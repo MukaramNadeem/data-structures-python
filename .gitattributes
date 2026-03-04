@@ -1,0 +1,2 @@
+# Override GitHub Linguist to show Python instead of Jupyter Notebook
+*.ipynb linguist-language=Python
